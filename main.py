@@ -42,4 +42,4 @@ while keep_translator_on:
     decision = input("Do you want to resume? Y/N: ").lower()
     if decision == 'n':
         keep_translator_on = False
-        print("Thanks for trying me ❤")
+        print("Thanks see you later ❤")
